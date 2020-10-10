@@ -1,0 +1,10 @@
+"vragensdk_next_button_title" = "Next";
+"vragensdk_next_button_title_accessibility" = "Next question";
+"vragensdk_done_button_title" = "Done";
+"vragensdk_done_button_title_accessibility" = "Done with survey";
+"vragensdk_close_button_title" = "Save and exit";
+
+"vragensdk_loading_accessibility" = "Loading survey";
+
+"vragensdk_error_title" = "Error";
+"vragensdk_error_confirm_title" = "Oké 🤷‍♂️";

@@ -1,0 +1,10 @@
+"vragensdk_next_button_title" = "Volgende";
+"vragensdk_next_button_title_accessibility" = "Volgende vraag";
+"vragensdk_done_button_title" = "Voltooien";
+"vragensdk_done_button_title_accessibility" = "Enquête voltooien";
+"vragensdk_close_button_title" = "Opslaan en afsluiten";
+
+"vragensdk_loading_accessibility" = "Enquête aan het laden";
+
+"vragensdk_error_title" = "Error";
+"vragensdk_error_confirm_title" = "Oké 🤷‍♂️";
